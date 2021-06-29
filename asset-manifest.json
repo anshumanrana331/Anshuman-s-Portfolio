@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/anshumanportfolio/static/css/main.b2b9d158.chunk.css",
+    "main.js": "/anshumanportfolio/static/js/main.5d457367.chunk.js",
+    "main.js.map": "/anshumanportfolio/static/js/main.5d457367.chunk.js.map",
+    "runtime-main.js": "/anshumanportfolio/static/js/runtime-main.a8a6f641.js",
+    "runtime-main.js.map": "/anshumanportfolio/static/js/runtime-main.a8a6f641.js.map",
+    "static/js/2.727dbad4.chunk.js": "/anshumanportfolio/static/js/2.727dbad4.chunk.js",
+    "static/js/2.727dbad4.chunk.js.map": "/anshumanportfolio/static/js/2.727dbad4.chunk.js.map",
+    "index.html": "/anshumanportfolio/index.html",
+    "static/css/main.b2b9d158.chunk.css.map": "/anshumanportfolio/static/css/main.b2b9d158.chunk.css.map",
+    "static/js/2.727dbad4.chunk.js.LICENSE.txt": "/anshumanportfolio/static/js/2.727dbad4.chunk.js.LICENSE.txt",
+    "static/media/about_anime.986764c2.gif": "/anshumanportfolio/static/media/about_anime.986764c2.gif",
+    "static/media/about_vector.c42fe3db.png": "/anshumanportfolio/static/media/about_vector.c42fe3db.png",
+    "static/media/contact_anime.1f3936c4.png": "/anshumanportfolio/static/media/contact_anime.1f3936c4.png",
+    "static/media/home_anime.f372ef86.gif": "/anshumanportfolio/static/media/home_anime.f372ef86.gif",
+    "static/media/skills_vector.1fb5f4a4.png": "/anshumanportfolio/static/media/skills_vector.1fb5f4a4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8a6f641.js",
+    "static/js/2.727dbad4.chunk.js",
+    "static/css/main.b2b9d158.chunk.css",
+    "static/js/main.5d457367.chunk.js"
+  ]
+}
