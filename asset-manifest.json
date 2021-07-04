@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Anshuman-Portfolio/static/css/main.b2b9d158.chunk.css",
-    "main.js": "/Anshuman-Portfolio/static/js/main.5d457367.chunk.js",
-    "main.js.map": "/Anshuman-Portfolio/static/js/main.5d457367.chunk.js.map",
+    "main.css": "/Anshuman-Portfolio/static/css/main.5ca30741.chunk.css",
+    "main.js": "/Anshuman-Portfolio/static/js/main.bfc5c5a8.chunk.js",
+    "main.js.map": "/Anshuman-Portfolio/static/js/main.bfc5c5a8.chunk.js.map",
     "runtime-main.js": "/Anshuman-Portfolio/static/js/runtime-main.d2fdd1cf.js",
     "runtime-main.js.map": "/Anshuman-Portfolio/static/js/runtime-main.d2fdd1cf.js.map",
     "static/js/2.727dbad4.chunk.js": "/Anshuman-Portfolio/static/js/2.727dbad4.chunk.js",
     "static/js/2.727dbad4.chunk.js.map": "/Anshuman-Portfolio/static/js/2.727dbad4.chunk.js.map",
     "index.html": "/Anshuman-Portfolio/index.html",
-    "static/css/main.b2b9d158.chunk.css.map": "/Anshuman-Portfolio/static/css/main.b2b9d158.chunk.css.map",
+    "static/css/main.5ca30741.chunk.css.map": "/Anshuman-Portfolio/static/css/main.5ca30741.chunk.css.map",
     "static/js/2.727dbad4.chunk.js.LICENSE.txt": "/Anshuman-Portfolio/static/js/2.727dbad4.chunk.js.LICENSE.txt",
     "static/media/about_anime.986764c2.gif": "/Anshuman-Portfolio/static/media/about_anime.986764c2.gif",
     "static/media/about_vector.c42fe3db.png": "/Anshuman-Portfolio/static/media/about_vector.c42fe3db.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.d2fdd1cf.js",
     "static/js/2.727dbad4.chunk.js",
-    "static/css/main.b2b9d158.chunk.css",
-    "static/js/main.5d457367.chunk.js"
+    "static/css/main.5ca30741.chunk.css",
+    "static/js/main.bfc5c5a8.chunk.js"
   ]
 }
