@@ -9,8 +9,13 @@ class Home extends Component {
         return (
             <div className='home-container'>
                 <div className='header-text'>
-                    <h1>Welcome to my portfolio!</h1>
-                    <p>This is Anshuman Rana, student at VIIT, Pune.</p>
+                    <h1>Hello There!</h1>
+                    <p> I am Anshuman Rana, an undergraduate student pursuing my degree in Electronics and Communications 
+                        Engineering at VIIT, Pune. I am blessed to live in a world of 
+                        technology which aids my effort and gives wider exposure. Consistently pursuing this developed 
+                        adaptability in me, self-respect and self-awareness such that I take my time to truly understand 
+                        and bring out the best of anything I set my eyes at.
+                    </p>
                 </div>
                 <div className='head-btns'>
                     <Link to='/about' className='btn btn-white'>

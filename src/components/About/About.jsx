@@ -17,7 +17,7 @@ const About = () => {
                     {/* Sub section 1 */}
                     <h3 className='about-sub-head'>Student</h3>
                     <p className='about-details'>
-                        I am Anshuman Rana, a final year student, at {' '} 
+                        I am Anshuman Rana, final year student, at {' '} 
                         <a
                             className='about-link-element'
                             target='_blank'
@@ -27,7 +27,8 @@ const About = () => {
                         {' '}pursuing Bachelors of Technology in the field of Electronics and Communications Engineering. 
                         I am a keen learner, and an enthusiast of experimenting with different technologies. 
                         I am calm, friendly and I love creating new stuff and sharing it on the internet, 
-                        I am a fitness freak and I love playing Basketball.
+                        I am a fitness freak and I love playing Basketball. I'm always willing to participate 
+                        in something that helps me learn and grow.
                     </p>
     
                     {/* Sub section 2 */}
@@ -36,7 +37,7 @@ const About = () => {
                     Skilled with languages such as C++ and Java, having great knowledge of Data Structures and Algorithms, 
                     well versed with OOPs concepts, with core knowledge of Operating Systems, 
                     Database Management, and Computer Networks. Having great interest in coding, 
-                    I like to solve problems on Leetcode.{' '}
+                    I am a competitive programmer and I like to solve problems in constant time.{' '}
                         <a
                             className='about-link-element'
                             target='_blank'
