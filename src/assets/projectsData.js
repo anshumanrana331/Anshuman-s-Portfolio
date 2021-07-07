@@ -1,5 +1,12 @@
 export const projectsData = [
     {
+        projectName: 'Doc It - Google Docs Clone',
+        projectDescription:'Gone are the days when creating and managing documents was done on one compute. Here is an application where You can create, edit, and share documents online and access them from any computer with an internet connection. ',
+        imageUrl: 'https://github.com/anshumanrana331/extra/blob/main/docsclone1.png?raw=true',
+        githubUrl: 'https://github.com/anshumanrana331/Doc-It-GoogleDocsClone',
+        projectUrl: 'https://google-docs-clone-mwd.netlify.app/',
+    },
+    {
         projectName: 'StoryBooks',
         projectDescription:
             'Writing down stories in a notebook is an old-school now, Check out this StoryBooks application where you can write down your thoughts and even present it to the world.',
